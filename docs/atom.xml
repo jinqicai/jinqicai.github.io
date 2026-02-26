@@ -17,7 +17,17 @@
         <subtitle>真的是个奇才</subtitle>
     <link href="https://jinqicai.cn/atom.xml" rel="self" type="application/atom+xml"/>
     <link href="https://jinqicai.cn" rel="alternate" type="text/html"/>
-    <generator uri="https://www.getzola.org/">Zola</generator><updated>2026-01-12T00:00:00+00:00</updated><id>https://jinqicai.cn/atom.xml</id><entry xml:lang="zh">
+    <generator uri="https://www.getzola.org/">Zola</generator><updated>2026-02-26T00:00:00+00:00</updated><id>https://jinqicai.cn/atom.xml</id><entry xml:lang="zh">
+        <title>沉思录</title>
+        <published>2026-02-26T00:00:00+00:00</published>
+        <updated>2026-02-26T00:00:00+00:00</updated>
+        <author>
+            <name>JQC</name>
+        </author>
+        <link rel="alternate" href="https://jinqicai.cn/learning/meditations/" type="text/html"/>
+        <id>https://jinqicai.cn/learning/meditations/</id>
+        <summary type="html">沉思录</summary>
+        </entry><entry xml:lang="zh">
         <title>学习项目</title>
         <published>2026-01-12T00:00:00+00:00</published>
         <updated>2026-01-12T00:00:00+00:00</updated>
