@@ -189,6 +189,7 @@ menu = [
     { name = "archive", url = "archive", trailing_slash = true },
     { name = "tags", url = "tags", trailing_slash = true },
     { name = "learning", url = "learning", trailing_slash = true },
+    { name = "MBA", url = "mba", trailing_slash = true },
     { name = "sports", url = "sports", trailing_slash = true },
     { name = "projects", url = "projects", trailing_slash = true },
 ]

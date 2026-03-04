@@ -26,7 +26,7 @@
         </author>
         <link rel="alternate" href="https://jinqicai.cn/learning/meditations/" type="text/html"/>
         <id>https://jinqicai.cn/learning/meditations/</id>
-        <summary type="html">沉思录</summary>
+        <summary type="html">一个罗马皇帝的人生思考</summary>
         </entry><entry xml:lang="zh">
         <title>学习项目</title>
         <published>2026-01-12T00:00:00+00:00</published>
@@ -37,5 +37,15 @@
         <link rel="alternate" href="https://jinqicai.cn/learning/thinking/" type="text/html"/>
         <id>https://jinqicai.cn/learning/thinking/</id>
         <summary type="html">学习与读书</summary>
+        </entry><entry xml:lang="zh">
+        <title>MBA学习</title>
+        <published>2026-01-12T00:00:00+00:00</published>
+        <updated>2026-01-12T00:00:00+00:00</updated>
+        <author>
+            <name>JQC</name>
+        </author>
+        <link rel="alternate" href="https://jinqicai.cn/mba/thinking/" type="text/html"/>
+        <id>https://jinqicai.cn/mba/thinking/</id>
+        <summary type="html">MBA学习</summary>
         </entry>
 </feed>

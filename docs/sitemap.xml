@@ -21,6 +21,10 @@
         <loc>https://jinqicai.cn/blog/page/1/</loc>
     </url>
     <url>
+        <loc>https://jinqicai.cn/blog/yi-xie-zhi-nian-xiu-jia-pu/</loc>
+        <lastmod>2026-03-04</lastmod>
+    </url>
+    <url>
         <loc>https://jinqicai.cn/learning/</loc>
     </url>
     <url>
@@ -29,6 +33,13 @@
     </url>
     <url>
         <loc>https://jinqicai.cn/learning/thinking/</loc>
+        <lastmod>2026-01-12</lastmod>
+    </url>
+    <url>
+        <loc>https://jinqicai.cn/mba/</loc>
+    </url>
+    <url>
+        <loc>https://jinqicai.cn/mba/thinking/</loc>
         <lastmod>2026-01-12</lastmod>
     </url>
     <url>
@@ -70,6 +81,9 @@
     </url>
     <url>
         <loc>https://jinqicai.cn/tags/fu-zi/</loc>
+    </url>
+    <url>
+        <loc>https://jinqicai.cn/tags/mba/</loc>
     </url>
     <url>
         <loc>https://jinqicai.cn/tags/nian-hui/</loc>
