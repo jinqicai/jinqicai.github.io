@@ -12,20 +12,20 @@
         <tabi:last_updated_on>更新于 $DATE</tabi:last_updated_on>
         <tabi:default_theme></tabi:default_theme>
         <tabi:post_listing_date>date</tabi:post_listing_date>
-        <tabi:current_section>MBA</tabi:current_section>
-    </tabi:metadata><title>真的是个奇才 - MBA</title>
+        <tabi:current_section>儿童作品</tabi:current_section>
+    </tabi:metadata><title>真的是个奇才 - 儿童作品</title>
         <subtitle>真的是个奇才</subtitle>
-    <link href="https://jinqicai.cn/tags/mba/atom.xml" rel="self" type="application/atom+xml"/>
-    <link href="https://jinqicai.cn/tags/mba/" rel="alternate" type="text/html"/>
-    <generator uri="https://www.getzola.org/">Zola</generator><updated>2026-01-12T00:00:00+00:00</updated><id>https://jinqicai.cn/tags/mba/atom.xml</id><entry xml:lang="zh">
-        <title>MBA学习</title>
-        <published>2026-01-12T00:00:00+00:00</published>
-        <updated>2026-01-12T00:00:00+00:00</updated>
+    <link href="https://jinqicai.cn/tags/er-tong-zuo-pin/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://jinqicai.cn/tags/er-tong-zuo-pin/" rel="alternate" type="text/html"/>
+    <generator uri="https://www.getzola.org/">Zola</generator><updated>2026-03-11T00:00:00+00:00</updated><id>https://jinqicai.cn/tags/er-tong-zuo-pin/atom.xml</id><entry xml:lang="zh">
+        <title>儿童画作</title>
+        <published>2026-03-11T00:00:00+00:00</published>
+        <updated>2026-03-11T00:00:00+00:00</updated>
         <author>
             <name>JQC</name>
         </author>
-        <link rel="alternate" href="https://jinqicai.cn/mba/thinking/" type="text/html"/>
-        <id>https://jinqicai.cn/mba/thinking/</id>
-        <summary type="html">西安交通大学MBA</summary>
+        <link rel="alternate" href="https://jinqicai.cn/learning/babydraw/" type="text/html"/>
+        <id>https://jinqicai.cn/learning/babydraw/</id>
+        <summary type="html">分享童趣画作</summary>
         </entry>
 </feed>

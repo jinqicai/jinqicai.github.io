@@ -1,6 +1,6 @@
 +++
 title = "MBA学习"
-description = "MBA学习"
+description = "西安交通大学MBA"
 date = 2026-01-12
 
 [taxonomies]

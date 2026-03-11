@@ -17,7 +17,17 @@
         <subtitle>真的是个奇才</subtitle>
     <link href="https://jinqicai.cn/tags/xue-xi/atom.xml" rel="self" type="application/atom+xml"/>
     <link href="https://jinqicai.cn/tags/xue-xi/" rel="alternate" type="text/html"/>
-    <generator uri="https://www.getzola.org/">Zola</generator><updated>2026-02-26T00:00:00+00:00</updated><id>https://jinqicai.cn/tags/xue-xi/atom.xml</id><entry xml:lang="zh">
+    <generator uri="https://www.getzola.org/">Zola</generator><updated>2026-03-11T00:00:00+00:00</updated><id>https://jinqicai.cn/tags/xue-xi/atom.xml</id><entry xml:lang="zh">
+        <title>儿童画作</title>
+        <published>2026-03-11T00:00:00+00:00</published>
+        <updated>2026-03-11T00:00:00+00:00</updated>
+        <author>
+            <name>JQC</name>
+        </author>
+        <link rel="alternate" href="https://jinqicai.cn/learning/babydraw/" type="text/html"/>
+        <id>https://jinqicai.cn/learning/babydraw/</id>
+        <summary type="html">分享童趣画作</summary>
+        </entry><entry xml:lang="zh">
         <title>沉思录</title>
         <published>2026-02-26T00:00:00+00:00</published>
         <updated>2026-02-26T00:00:00+00:00</updated>
@@ -46,6 +56,6 @@
         </author>
         <link rel="alternate" href="https://jinqicai.cn/mba/thinking/" type="text/html"/>
         <id>https://jinqicai.cn/mba/thinking/</id>
-        <summary type="html">MBA学习</summary>
+        <summary type="html">西安交通大学MBA</summary>
         </entry>
 </feed>
