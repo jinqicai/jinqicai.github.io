@@ -17,7 +17,17 @@
         <subtitle>真的是个奇才</subtitle>
     <link href="https://jinqicai.cn/atom.xml" rel="self" type="application/atom+xml"/>
     <link href="https://jinqicai.cn" rel="alternate" type="text/html"/>
-    <generator uri="https://www.getzola.org/">Zola</generator><updated>2026-03-11T00:00:00+00:00</updated><id>https://jinqicai.cn/atom.xml</id><entry xml:lang="zh">
+    <generator uri="https://www.getzola.org/">Zola</generator><updated>2026-04-12T00:00:00+00:00</updated><id>https://jinqicai.cn/atom.xml</id><entry xml:lang="zh">
+        <title>春日随想</title>
+        <published>2026-04-12T00:00:00+00:00</published>
+        <updated>2026-04-12T00:00:00+00:00</updated>
+        <author>
+            <name>JQC</name>
+        </author>
+        <link rel="alternate" href="https://jinqicai.cn/blog/chun-ri-sui-xiang/" type="text/html"/>
+        <id>https://jinqicai.cn/blog/chun-ri-sui-xiang/</id>
+        <summary type="html">四月春风暖，万物复苏时。在这个充满生机的季节，记录一些关于成长与坚持的思考。</summary>
+        </entry><entry xml:lang="zh">
         <title>儿童画作</title>
         <published>2026-03-11T00:00:00+00:00</published>
         <updated>2026-03-11T00:00:00+00:00</updated>
